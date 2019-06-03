@@ -1,4 +1,4 @@
-# Sector_ETF_Recommender
+# A.I Sector ETF Recommendation System
 This is a machine learning approach to Portfolio Management. This project aims to recommend SPDR Sector ETF stocks that maximise daily returns. 
 
 # To run
